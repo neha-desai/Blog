@@ -29,7 +29,7 @@ body {
   font-size: 24px; }
 
 main .site-title {
-  background: url("/assets/Background-image.png");
+  background: url("Background-image.png");
   background-repeat: no-repeat;
   background-size: cover;
   height: 110vh;
@@ -71,7 +71,7 @@ main .site-title {
   width: auto; }
 
 .blog {
-  background: url("/assets/Abract01.png");
+  background: url("Abract01.png");
   height: auto;
   background-repeat: no-repeat;
   width: 100%;
